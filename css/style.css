@@ -127,11 +127,11 @@ body {
   @media (max-width: 480px) {
     /* Header */
     header .header-content h1 {
-      font-size: 1.8em;
+      font-size: 1.2em;
     }
   
     header .header-content p {
-      font-size: 0.9em;
+      font-size: 0.7em;
     }
   
     /* Navigation */
